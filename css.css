@@ -174,4 +174,14 @@
     width: 177px;
 }
 
+.texte-page-1 {
+   letter-spacing: 0;
+   line-height: normal;
+   margin-bottom: -41px;
+   min-height: 147px;
+   opacity: 0.75;
+   text-align: center;
+   width: 620px;
+}
+
 
